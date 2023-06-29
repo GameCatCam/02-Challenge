@@ -7,10 +7,6 @@ Given a webpage of which needed to be optimized for accessibility, I used semant
 
 This project showed the many ways in which a website may be optimized for accessibility standards. As well as how to clean up and condense code to make it a bit more readable.
 
-## Credits
-
-N/A
-
 ## Screenshot
 
 ![screenshot of mockup](./Assets/01-html-css-git-homework-demo.png)
