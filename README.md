@@ -15,6 +15,10 @@ N/A
 
 MIT License (can be viewed in the repo).
 
+## Screenshot
+
+![screenshot of mockup](./Assets/01-html-css-git-homework-demo.png)
+
 ## Credits
 Original code and mockup provided by edX Boot Camps
 Refactoring of said code was done by myself, Cameron Rawlins
