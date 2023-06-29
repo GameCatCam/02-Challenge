@@ -14,3 +14,7 @@ N/A
 ## License
 
 MIT License (can be viewed in the repo).
+
+## Credits
+Original code and mockup provided by edX Boot Camps
+Refactoring of said code was done by myself, Cameron Rawlins
