@@ -11,10 +11,6 @@ This project showed the many ways in which a website may be optimized for access
 
 N/A
 
-## License
-
-MIT License (can be viewed in the repo).
-
 ## Screenshot
 
 ![screenshot of mockup](./Assets/01-html-css-git-homework-demo.png)
