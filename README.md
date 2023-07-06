@@ -12,5 +12,5 @@ This project showed the many ways in which a website may be optimized for access
 ![screenshot of mockup](./assets/01-html-css-git-homework-demo.png)
 
 ## Credits
-Original code and mockup provided by edX Boot Camps
+Original code and mockup provided by edX Boot Camps.
 Refactoring of said code was done by myself, Cameron Rawlins
